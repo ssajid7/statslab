@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: STATSLAB
-description: A sports statistics and data analytics blog started by Shaheer Sajid.
+description: A sports statistics and data analytics blog started by Shaheer Sajid. This website is powered by **[fastpages](https://github.com/fastai/fastpages)**, a blogging platform that natively supports Jupyter notebooks in addition to other formats.
 github_username: ssajid7
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "statslab"
