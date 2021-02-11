@@ -453,7 +453,7 @@ table td { background-color: #2b2b2b; border-color: #494949; color: rgba(255, 25
 
 .flash { color: #2b2b2b !important; filter: brightness(80%); }
 
-canvas { filter: invert(80%); }
+canvas { filter: invert(90%); }
 
 .post-list > li > div { box-shadow: none !important; background-color: #363636; border: none !important; }
 
